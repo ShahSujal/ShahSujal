@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **BlockChain technology**
 
-- 👨‍💻 All of my projects are available at [sujal-shah.vercel.app](sujal-shah.vercel.app)
+- 👨‍💻 All of my projects are available at [sujal-shah.vercel.app](https://sujal-shah.vercel.app)
 
 - 💬 Ask me about **Front-End, Back-End, Native-Cross-platform development**
 
