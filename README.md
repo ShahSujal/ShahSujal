@@ -1,4 +1,4 @@
-![App Screenshot](https://raw.githubusercontent.com/ShahSujal/ShahSujal/main/black.png)
+![App Screenshot](https://github.com/ShahSujal/ShahSujal/blob/main/Black%20Technology%20LinkedIn%20Banner.jpg)
 
 <h1 align="center">Hello, I'm Sujal Shah</h1>
 <h3 align="center">A passionate Web Developer & Native Developer from India</h3>
