@@ -1,5 +1,5 @@
 <div style="width: 100%; height: 300px; overflow: hidden;">
-  <img src="https://media.discordapp.net/attachments/1261395339680682016/1285389308655829002/Screenshot_2024-09-17_052654.png?ex=66ea1794&is=66e8c614&hm=12161a0591b6614c18fd038bea6e523f90683002908d6676e7d447e95aa8fc81&=&format=webp&quality=lossless&width=687&height=246" alt="App Screenshot" style="width: 100%; height: 100%; object-fit: cover;"/>
+  <img src="https://raw.githubusercontent.com/ShahSujal/StakeYards/refs/heads/main/public/content/backbg.png" alt="App Screenshot" style="width: 100%; height: 100%; object-fit: cover;"/>
 </div>
 
 <h1 align="center">Hello, I'm Sujal Shah</h1>
